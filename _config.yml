@@ -8,12 +8,13 @@
 # Site settings
 title: WaLittleMoon
 # email: your-email@domain.com
-description:  We play dumb
-              But we know exactly what we*re doing
+description:  We play dumb!|
+ But we know exactly what we're doing!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  WaLittleMoon
 
 # Build settings
 markdown: kramdown
+port: 4444
