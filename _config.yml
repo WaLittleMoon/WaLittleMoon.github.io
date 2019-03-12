@@ -16,5 +16,5 @@ url: "https://walittlemoon.github.io" # the base hostname & protocol for your si
 github_username:  WaLittleMoon
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
 port: 4444
